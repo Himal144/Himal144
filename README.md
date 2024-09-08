@@ -20,14 +20,14 @@
 - 📄 Know about my experiences [bhandarihimal.com.np/resume](bhandarihimal.com.np/resume)
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
+<p align="left">
 <a href="https://twitter.com/@himal_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@himal_ll" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himal-bhandari-a53358285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himal-bhandari-a53358285" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24670973/himal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24670973/himal" height="30" width="40" /></a>
 <a href="https://kaggle.com/himal144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himal144" height="30" width="40" /></a>
 <a href="https://fb.com/himal.bhandari.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himal.bhandari.16" height="30" width="40" /></a>
 <a href="https://instagram.com/himal8712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himal8712/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/yjmhlacbmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/yjmhlacbmw/" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/u/yjmhlacbmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/yjmhlacbmw/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
