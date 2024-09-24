@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [bhandarihimal.com.np/blog](bhandarihimal.com.np/blog)
 
-- 📫 How to reach me **contact@bhandarihimal.com.np**
+- 📫 How to reach me **mail@bhandarihimal.com.np**
 
 - 📄 Know about my experiences [bhandarihimal.com.np/resume](bhandarihimal.com.np/resume)
 
