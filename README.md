@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@himal_ll" target="blank"><img src="https://img.shields.io/twitter/follow/@himal_ll?logo=twitter&style=for-the-badge" alt="@himal_ll" /></a> </p>
 
-- 🔭 I’m currently working on [Mango(Micro service oriented .NET project)](https://github.com/Himal144/Mango)
+- 🔭 I’m currently working on [Data Structure and Algoriths)](https://github.com/Himal144/DSA_Basic)
 
-- 🌱 I’m currently learning **.NET and Django**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himal144](https://github.com/Himal144)
 
